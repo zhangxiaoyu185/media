@@ -1,2 +1,2 @@
 # media
-图文语音多媒体工程
+基于springmvc+mybatis的图文语音多媒体服务
